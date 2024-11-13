@@ -92,11 +92,8 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Conocimiento de Juegos: Experto en Fortnite y Call of Duty
+details: 
+Conocimiento de Juegos: Experto en Fortnite y Call of Duty
 Habilidades Estratégicas: Habilidad para analizar rápidamente el entorno y desarrollar estrategias efectivas bajo presión.
 Trabajo en Equipo: Experiencia colaborando con equipos de alto rendimiento y coordinando estrategias en tiempo real.
 Manejo de Redes Sociales: Creación de contenido para Twitch, YouTube y otras redes; interacción y creación de comunidad.
