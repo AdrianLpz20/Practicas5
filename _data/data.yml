@@ -13,11 +13,11 @@ sidebar:
     avatar: Andrei.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adrlopgil@alu.edu.gva.es
+    email: Petrovkalashnikov@alu.edu.gva.es
     phone: 655 25 65 41
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://www.youtube.com/@andriesmic # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
     xing: alandoe
     github: jekyll
