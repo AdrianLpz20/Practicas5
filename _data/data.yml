@@ -89,40 +89,19 @@ career-profile:
             - Bullet point
             - Bullet point
 
-experiences:
-    title: Experiences
-    info:
-details: | 
-Conocimiento de Juegos, Experto en Fortnite y Call of Duty
-Habilidades Estratégicas, Habilidad para analizar rápidamente el entorno y desarrollar estrategias efectivas bajo presión.
-Trabajo en Equipo, Experiencia colaborando con equipos de alto rendimiento y coordinando estrategias en tiempo real.
-Manejo de Redes Sociales, Creación de contenido para Twitch, YouTube y otras redes; interacción y creación de comunidad.
-Adaptabilidad, Rápida adaptación a actualizaciones y nuevas mecánicas de juego.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+
+
+Experiences:
+      title: Experencies
+        
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Conocimiento de Juegos, Experto en Fortnite y Call of Duty 
+            Habilidades Estratégicas, Habilidad para analizar rápidamente el entorno y desarrollar estrategias efectivas bajo presión
+            Trabajo en Equipo, Experiencia colaborando con equipos de alto rendimiento y coordinando estrategias en tiempo real.
+            Manejo de Redes Sociales, Creación de contenido para Twitch, YouTube y otras redes; interacción y creación de comunidad.
+            Adaptabilidad, Rápida adaptación a actualizaciones y nuevas mecánicas de juego.
+            
         - name: Git learning
           start: 2019
           end:
