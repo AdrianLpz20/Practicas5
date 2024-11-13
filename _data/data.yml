@@ -8,12 +8,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mr Andrei Micleusanu Petrov
+    name: Adrian Lopez Gil
     tagline: Fortnite Profesional Player
     avatar: Andrei.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Petrovkalashnikov@alu.edu.gva.es
+    email: adrlopgil@alu.edu.gva.es
     phone: 655 25 65 41
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
@@ -37,12 +37,12 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: A2
+          level: B1
 
-        - idiom: Ruso
-          level: C2
+        - idiom: Catalan
+          level: C1
 
-        - idiom: Spanish
+        - idiom: Italiano
           level: A2
 
     interests:
@@ -60,8 +60,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Actualmente profesor de tecnologia pero tambien cazador ruso. Me gusta contar chistes a mis alumnos para amenizar las clases ya que son duras por la teoria que contienen.Pueden ver tambien el contenido de las clases en Youtupe en mi canal "Andrei MIcleusanu.
-education:
+      Soy un jugador de videojuegos profesional con 5 años de experiencia en juegos competitivos, especializado en fortnite, call of duty y Fifa
+      . Apasionado por la estrategia y el trabajo en equipo, con habilidades comprobadas en competiciones de alto nivel. 
+      Fuerte presencia en redes sociales y plataformas de transmisión, con audiencia . Altamente motivado para representar equipos y marcas en torneos nacionales e internacionales, y
+      comprometido con el desarrollo de la comunidad gamer.
     title: Education
     info:
       - degree: MSc in Computer Science
